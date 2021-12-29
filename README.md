@@ -3,4 +3,4 @@ Hi there !
 - 🔭 I’m currently working on University Of Information Technology
 - 🌱 I’m currently learning Computer Science, specifically is Computer Vision and Artificial Intelligence
 - 👯 I’m looking to collaborate on everything about Computer Vision
-- ❤! My favourite language is Python 
+- ❤ My favourite language is Python 
