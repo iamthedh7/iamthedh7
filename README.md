@@ -8,3 +8,5 @@ Hi there👋! I'm **Duong Hai Nguyen**, I was appeared on the Earth in 03/11/200
     + Facebook: https://www.facebook.com/dzghai.no7
     + Instagram: https://www.instagram.com/dzghai/
     + Gmail: nguyenduonghai07@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
