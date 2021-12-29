@@ -4,7 +4,7 @@ Hi there !
 - 🌱 I’m currently learning Computer Science, specifically is Computer Vision and Artificial Intelligence
 - 👯 I’m looking to collaborate on everything about Computer Vision
 - ❤ My favourite language is Python 
-- 📧Contact me in Social Network:
+- 📧 Contact me in Social Network:
     + Facebook: https://www.facebook.com/dzghai.no7
     + Instagram: https://www.instagram.com/dzghai/
     + Gmail: nguyenduonghai07@gmail.com
